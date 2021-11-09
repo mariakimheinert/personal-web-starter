@@ -1,4 +1,4 @@
-baseURL = "https://lucid-kalam-1a7488.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Edna West"
 theme = "personal-web"
